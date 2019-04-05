@@ -1,0 +1,38 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Jacob's Blog
+tagline:             A Data Science Blog
+url:                 http://Gopher2016.github.io
+paginate:            2
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Jacob Niederer
+  url:
+  email:             niede026@umn.edu
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/Gopher2016/
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Page List
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/index.html'
