@@ -1,14 +1,11 @@
 ---
 layout: post
-title: Example content
+title: MTA Turnstile Data
 ---
 
+Hello! As a student in the Chicago Metis Data Science cohort I was tasked with analyzing Metro Transit Authority (MTA) data in the New York City metro area. The insights from this analysis would be used to assist a nonprofit client in sending out street teams to various MTA train stations to advocate for an upcoming WomenTechWomenYes gala being held at the beginning of summer.
 
-<div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-</div>
-
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+In order to...
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 
