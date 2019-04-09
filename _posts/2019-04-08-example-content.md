@@ -13,4 +13,6 @@ The sample distribution of daily entries for all New York City MTA stations is p
 
 An interesting trend emerged when plotting our data such that weekly highs and lows in measures of daily entries at our five busiest terminals. This phenomenon was found to correspond with differences in weekday and weekend traffic at each station.
 
+![Distribution](https://github.com/Gopher2016/Gopher2016.github.io/blob/master/images/May_June_2018_Daily_Entries_by_Station.png?raw=true)
+
 The results from this analysis do not only provide insight into which MTA stations in the New York City metro area experience the greatest number of daily entries but more specifically help identify which days of the week will have the greatest foot traffic. Sending street teams out to the MTA stations identified as having the greatest number of daily entries during weekdays will allow WomenTechWomenYes to promote their gala to the greatest number of individuals as well as to target residents living and working in the New York City area who are more likely to attend the event.
