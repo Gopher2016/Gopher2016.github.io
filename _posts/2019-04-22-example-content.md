@@ -7,7 +7,7 @@ While GDP, or gross domestic product, is the most widely used measure of a count
 
 In order to accomplish this task a number of factors were considered in this analysis. Of the many potential factors influencing GDP, metrics considered in this analysis were those relating to global economics, government policies, public health, public education, and access to natural resources.
 
-The top 20 countries by GDP per capita (in USD) are shown in the graph below. The United States is 12th on this list with an 2018 GDP per capita of $62,606. The nations that top this list, and their respective GDP per capita, include Qatar ($130,475), Macau ($116,808) and Luxembourg ($106,704).
+The top 20 countries by GDP per capita (in USD) are shown in the graph below. The United States is 12th on this list with a 2018 GDP per capita of $62,606. The nations that top this list, and their respective GDP per capita, include Qatar ($130,475), Macau ($116,808) and Luxembourg ($106,704).
 
 ![Distribution](https://github.com/Gopher2016/Gopher2016.github.io/blob/master/images/Top_20_Countries_by_GDP.png?raw=true)
 
@@ -17,4 +17,4 @@ In this analysis the best performing model was found to be a lasso regression mo
 
 ![Distribution](https://github.com/Gopher2016/Gopher2016.github.io/blob/master/images/Correlation_Heatmap.png?raw=true)
 
-The results from this analysis can serve to inform public policy decisions that may ultimately influence GDP per capita at a national level. The ability to make better data-driven decisions based on new insights is a key component of data science and one that should not be limited to the data science industry.
+The results from this analysis can serve to inform public policy decisions that may ultimately influence GDP per capita at a national level. The ability to make better data-driven decisions based on new insights is a key component of data science and one that should not be limited to data scientists and analytics profesionals.
