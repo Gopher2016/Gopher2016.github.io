@@ -4,7 +4,7 @@ title: Classifying Benign and Malignant Breast Tissue
 ---
 
 The Centers for Disease Control and Prevention has reported breast cancer to be one of the
-leading forms of cancer affecting women in the United States, second only skin cancer, with approximately 240,000 new cases of breast cancer diagnosed every year. I tested several classification models with the intention of identifying specific features of breast cancer tissue that can help predict whether tumor tissue was benign or malignant.
+leading forms of cancer affecting women in the United States, second only skin cancer, with approximately 240,000 new cases of breast cancer diagnosed every year. I tested several classification models with the intention of identifying specific features of breast cancer tissue that can help predict whether tumor tissue is benign or malignant.
 
 In order to accomplish this task a number of factors were considered in this analysis. Data was obtained from the online machine learning community Kaggle in which various features were computed from digitized images of fine needle aspirate (FNA) of breast mass tissue. The features describe characteristics of the cell nuclei present in the image with metrics relating to cellular radius, texture, perimeter, area, smoothness, compactness, concavity, and symmetry. Each observation within the data set was labeled as being either benign or malignant tissue.
 
